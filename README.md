@@ -1,1 +1,2 @@
-ok
+This project focuses on analyzing restaurant data and building intelligent models to predict ratings, classify cuisines, location based restaurant analysis and recommend restaurants based on various attributes present in the dataset. The system is developed using Python and works on a structured dataset (dataset.csv) containing multiple properties of restaurants such as location, cuisine type, ratings, and other relevant features.
+The main goal of this project is to demonstrate how data analysis, machine learning, and recommendation techniques can be applied to the food and hospitality domain to support better decision-making for both customers and restaurant owners.
